@@ -1,3 +1,3 @@
 #kokoa clone 2020 update
 
-CSS got so muct better
+HRML & CSS are so muct fun!
